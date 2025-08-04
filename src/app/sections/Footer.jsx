@@ -31,7 +31,7 @@ const Footer = () => {
         </div>
         <div className="flex space-x-4 text-[#160c6b] text-xl">
           <a
-            href="https://wa.me/27737074710"
+            href="https://wa.me/27737054710"
             target="_blank"
             rel="noopener noreferrer"
           >
