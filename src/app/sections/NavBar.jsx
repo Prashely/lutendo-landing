@@ -53,7 +53,7 @@ export default function NavBar() {
 
       {/* Mobile menu dropdown */}
       {menuOpen && (
-        <div className="md:hidden px-6 pb-4 bg-black">
+        <div className="md:hidden px-6 pb-4 bg-[#06db9a] text-[#160c6b]">
           <nav className="flex flex-col space-y-4">
             {navLinks.map((link) => (
               <Link
