@@ -9,8 +9,8 @@ export default function ContactForm() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const fullMessage = `Hey Nash,\n\nMy name is ${name},\n\n${
-      message || "I’d like to get started with training."
+    const fullMessage = `Hello,\n\nMy name is ${name},\n\n${
+      message || "I’d like to get more information about your supplies."
     }\n\nyou can also reach me here ${phone}`;
     const encodedMessage = encodeURIComponent(fullMessage);
     const whatsappURL = `https://wa.me/27737054710?text=${encodedMessage}`;

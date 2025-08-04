@@ -69,7 +69,7 @@ const Footer = () => {
       </div>
       <div className="max-w-[1440px] mx-auto flex flex-col md:flex-row justify-between items-center text-[#160c6b] mt-4 text-sm">
         <p>
-          © 2025 Nashfitness. All rights reserved. by{" "}
+          © 2025 Lutendo Business Supplies. All rights reserved. by{" "}
           <a
             href="https://precisiondesignsagency.com"
             target="_blank"

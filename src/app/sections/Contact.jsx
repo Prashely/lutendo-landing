@@ -11,8 +11,9 @@ export default function Contact() {
         Get <span className="text-[#06db9a]">In Touch</span>
       </h2>
       <p className="text-gray-300 mb-12 max-w-2xl mx-auto text-center">
-        Every transformation starts with a decision. Make yours today. And join
-        the Nash family.
+        Whether you have questions about our services, want to learn more about
+        our training programs, or need assistance with deliveries, we’re here to
+        help. Reach out to us via WhatsApp or fill out the form below.
       </p>
       <div className="flex mt-20  mx-auto max-w-[800px]">
         <ContactForm />
