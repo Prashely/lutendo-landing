@@ -46,7 +46,7 @@ export default function ContactForm() {
           rows={5}
           value={message}
           onChange={(e) => setMessage(e.target.value)}
-          placeholder="Tell us how we csn assisst you..."
+          placeholder="Tell us how we can assisst you..."
           className="w-full bg-white text-[#160c6b] border border-[#160c6b] rounded-lg px-4 py-3 shadow-sm placeholder-white transition focus:outline-none focus:border-[#160c6b] focus:ring-2 focus:ring-[#160c6b] focus:shadow-[#160c6b]/40 tracking-wide"
           required
         ></textarea>
